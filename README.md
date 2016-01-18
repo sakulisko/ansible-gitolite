@@ -1,3 +1,5 @@
+This is fork of [this](https://github.com/silpion/ansible-gitolite) repository.
+
 # ansible-gitolite
 
 This role installs and configures gitolite from upstream Git repository.
