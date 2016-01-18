@@ -2,6 +2,7 @@
 gitolite_package_list:
   - git
   - perl
+  - sudo
 gitolite_package_list_selinux:
   - python-selinux
 gitolite_package_list_https:
