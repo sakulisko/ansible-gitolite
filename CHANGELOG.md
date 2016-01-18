@@ -1,3 +1,7 @@
+# 0.9.1
+Lukas Prokop (1):
+      gitolite v3.6.1->v3.6.4
+
 # 0.9.0
 
 Anja Siek (1):
